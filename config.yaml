@@ -1,0 +1,4 @@
+model_params:
+  max_depth: 5
+  n_estimators: 100
+output_model_path: model.pkl
